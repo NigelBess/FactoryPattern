@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GeneralConstruction</id>
+    <version>1.0.0</version>
+    <authors>Nigel Bess</authors>
+    <description>Generalized factory pattern implementation</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.dll" target="lib\netcoreapp3.1\GeneralConstruction.dll" />
+    <file src="C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.xml" target="lib\netcoreapp3.1\GeneralConstruction.xml" />
+  </files>
+</package>

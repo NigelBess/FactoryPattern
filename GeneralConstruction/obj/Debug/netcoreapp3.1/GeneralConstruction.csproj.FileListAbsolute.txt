@@ -1,0 +1,10 @@
+C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.deps.json
+C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.dll
+C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.pdb
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.AssemblyInfoInputs.cache
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.AssemblyInfo.cs
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.csproj.CoreCompileInputs.cache
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.dll
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.pdb
+C:\Dev\Factory\GeneralConstruction\bin\Debug\netcoreapp3.1\GeneralConstruction.xml
+C:\Dev\Factory\GeneralConstruction\obj\Debug\netcoreapp3.1\GeneralConstruction.csproj.AssemblyReference.cache
