@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "tuJzeTsmONRG0QWJf6r1zG13dIjHNyi04xCsEZEirUSsNad9naka1fNIxQ77cLdak0lC4rExR4o/xYzWKLeKTQ==",
-  "success": false,
+  "dgSpecHash": "+7FVUGqY1OsrpJmWfPzEqLTsZHbOI/suWN7d8KbC2FiIkjLxD4ce9I1V6VJj/XoOTckDnHP7xCyl7HIwHkHVCg==",
+  "success": true,
   "projectFilePath": "C:\\Dev\\FactoryPattern\\GeneralConstructionTest\\GeneralConstructionTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nigel\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
@@ -92,15 +92,5 @@
     "C:\\Users\\nigel\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\nigel\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

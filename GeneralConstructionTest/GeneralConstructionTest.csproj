@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Factory\GeneralConstruction.csproj" />
     <ProjectReference Include="..\GeneralConstruction\GeneralConstruction.csproj" />
   </ItemGroup>
 

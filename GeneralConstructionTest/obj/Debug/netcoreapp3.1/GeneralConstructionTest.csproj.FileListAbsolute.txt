@@ -96,3 +96,5 @@ C:\Dev\Factory\GeneralConstructionTest\obj\Debug\netcoreapp3.1\GeneralConstructi
 C:\Dev\Factory\GeneralConstructionTest\obj\Debug\netcoreapp3.1\GeneralConstructionTest.pdb
 C:\Dev\Factory\GeneralConstructionTest\obj\Debug\netcoreapp3.1\GeneralConstructionTest.genruntimeconfig.cache
 C:\Dev\Factory\GeneralConstructionTest\bin\Debug\netcoreapp3.1\GeneralConstruction.xml
+C:\Dev\FactoryPattern\GeneralConstructionTest\obj\Debug\netcoreapp3.1\GeneralConstructionTest.dll
+C:\Dev\FactoryPattern\GeneralConstructionTest\obj\Debug\netcoreapp3.1\GeneralConstructionTest.pdb

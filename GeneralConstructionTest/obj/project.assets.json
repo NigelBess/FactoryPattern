@@ -5725,7 +5725,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj",
       "GeneralConstruction >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.1",
       "MSTest.TestFramework >= 2.1.1",
@@ -5761,9 +5760,6 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj": {
-              "projectPath": "C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj"
-            },
             "C:\\Dev\\FactoryPattern\\GeneralConstruction\\GeneralConstruction.csproj": {
               "projectPath": "C:\\Dev\\FactoryPattern\\GeneralConstruction\\GeneralConstruction.csproj"
             }
@@ -5815,16 +5811,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Dev\\FactoryPattern\\Factory\\GeneralConstruction.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }
